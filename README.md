@@ -1,13 +1,7 @@
-# Luke's dmenu
+# giga-turbo dmenu
 
-Extra stuff added to vanilla dmenu:
-
-- reads Xresources (ergo pywal compatible)
-- alpha patch, which importantly allows this build to be embedded in transparent st
-- can view color characters like emoji (libxft-bgra is required for this reason)
-- `-P` for password mode: hide user imput
-- `-r` to reject non-matching input
-- dmenu options are mouse clickable
+Differences with LukeSmithxyz's dmenu:
+- Uses [Twitter Color Emoji](https://github.com/eosrei/twemoji-color-font) and [FontAwesome](https://fontawesome.com/?from=io)
 
 ## Installation
 
